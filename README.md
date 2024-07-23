@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DenyRamesh
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python, MySQL, HTML, CSS; Databases...
+- 📫 How to reach me: Instagram on @Codigence, Email on deny.emailsocial@gmail.com
